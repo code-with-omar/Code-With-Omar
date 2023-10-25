@@ -1,4 +1,4 @@
-##### Hi👋, I'm Md. Omar Faruk
+# Hi👋, I'm Md. Omar Faruk
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on ...
