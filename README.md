@@ -21,4 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-faruk-6&show_icons=true&locale=en&layout=compact" alt="omar-faruk-6" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-faruk-6&show_icons=true&locale=en" alt="omar-faruk-6" /></p>
-
+<h3 align="left">Certificates</h3>
+<a ref="https://coursera.org/share/3ac477c8ee3a7a72f36786e0f4ae5887"><img align="center" src="./img/Screenshot_15-2-2024_14564_.jpeg" />
