@@ -20,4 +20,5 @@
 <h3 align="left">Certificates</h3>
 <a href="https://coursera.org/share/b8e951392bfff18e8f99c086bc1e69db"><img align="center" src="./img/html&css.jpeg" alt="meta certificate" width="130" height="130"></a>
 <a href="https://coursera.org/share/3ac477c8ee3a7a72f36786e0f4ae5887"><img align="center" src="./img/Screenshot_15-2-2024_14564_.jpeg" alt="meta certificate" width="130" height="130"></a>
+<a href="https://coursera.org/share/911fe3da8969e903c62c31aa00499118"><img align="center" src="./img/react-basic.jpeg" alt="meta certificate" width="130" height="130"></a>
 <a href="https://coursera.org/share/68ce09ee3200a835b5ba7f06dd089ca7"><img align="center" src="./img/meta.jpeg" alt="Meta certificate" width="130" height="130"></a>
