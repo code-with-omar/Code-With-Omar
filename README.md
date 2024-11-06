@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript, Redux.js Next.js**
 
 - 📫 How to reach me **omarfaruk65142@gmail.com**
 
