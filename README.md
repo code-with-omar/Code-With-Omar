@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Next js & Golang**
 
-- 🌱 I’m currently learning **TypeScript, Redux.js Next.js**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **omarfaruk65142@gmail.com**
 
