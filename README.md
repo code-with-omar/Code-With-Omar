@@ -3,7 +3,7 @@
 <img align="right" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif" alt="" width="300">
 
 
-- 🔭 I’m currently working on **Next js & Golang**
+- 🔭 I’m currently working on **Next js ,Postgresql & GraphQL**
 
 - 🌱 I’m currently learning **Golang**
 
