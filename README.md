@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Next js ,Postgresql & GraphQL**
 
-- 🌱 I’m currently learning **Postgresql & GraphQL**
+- 🌱 I’m currently learning **Postgresql, GraphQL React Native and FastApi**
 
 - 📫 How to reach me **omarfaruk65142@gmail.com**
 
